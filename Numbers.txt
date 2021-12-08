@@ -2,7 +2,7 @@
 2 どんな編集をしたらいいかわからないが moge
 4 moge
 3 コンフリクトするのは怖い moge
-5 hoge
+5 moge
 6 hoge
 7 hoge
 9 hoge
