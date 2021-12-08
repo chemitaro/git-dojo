@@ -1,6 +1,6 @@
 1 今日はgit道場に参加してる  moge
 2 どんな編集をしたらいいかわからないが moge
-4 hoge
+4 moge
 3 コンフリクトするのは怖い hoge
 5 hoge
 6 hoge
